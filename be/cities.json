@@ -1,6 +1,6 @@
 [
   {
-    "name": "BRUSSEL",
+    "name": "Brussel",
     "cities": [
       "Brussel",
       "Laken",
@@ -51,7 +51,7 @@
     }
   },
   {
-    "name": "WAALS-BRABANT",
+    "name": "Waals-brabant",
     "cities": [
       "Limal",
       "Wavre",
@@ -286,7 +286,7 @@
     }
   },
   {
-    "name": "VLAAMS-BRABANT",
+    "name": "Vlaams-brabant",
     "cities": [
       "Halle",
       "Buizingen",
@@ -764,7 +764,7 @@
     }
   },
   {
-    "name": "ANTWERPEN",
+    "name": "Antwerpen",
     "cities": [
       "Antwerpen",
       "Antwerpen",
@@ -1083,7 +1083,7 @@
     }
   },
   {
-    "name": "LIMBURG",
+    "name": "Limburg",
     "cities": [
       "Hasselt",
       "Sint-Lambrechts-Herk",
@@ -1514,7 +1514,7 @@
     }
   },
   {
-    "name": "LUIK",
+    "name": "Luik",
     "cities": [
       "Glain",
       "Liège",
@@ -2253,7 +2253,7 @@
     }
   },
   {
-    "name": "NAMEN",
+    "name": "Namen",
     "cities": [
       "Beez",
       "Namur",
@@ -3000,7 +3000,7 @@
     }
   },
   {
-    "name": "HENEGOUWEN",
+    "name": "Henegouwen",
     "cities": [
       "Charleroi",
       "Marcinelle",
@@ -3921,7 +3921,7 @@
     }
   },
   {
-    "name": "LUXEMBURG",
+    "name": "Luxemburg",
     "cities": [
       "Bastogne",
       "Longvilly",
@@ -4398,7 +4398,7 @@
     }
   },
   {
-    "name": "WEST-VLAANDEREN",
+    "name": "West-vlaanderen",
     "cities": [
       "Brugge",
       "Koolkerke",
@@ -4894,7 +4894,7 @@
     }
   },
   {
-    "name": "OOST-VLAANDEREN",
+    "name": "Oost-vlaanderen",
     "cities": [
       "Gent",
       "Mariakerke",
