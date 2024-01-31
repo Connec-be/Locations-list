@@ -1,9 +1,35 @@
 [
-    {
-        "name": "Vlaanderen"
-    },
-    {
-        "name": "Wallonië"
-    }
-
+  {
+    "name": "Brussel"
+  },
+  {
+    "name": "Waals-brabant"
+  },
+  {
+    "name": "Vlaams-brabant"
+  },
+  {
+    "name": "Antwerpen"
+  },
+  {
+    "name": "Limburg"
+  },
+  {
+    "name": "Luik"
+  },
+  {
+    "name": "Namen"
+  },
+  {
+    "name": "Henegouwen"
+  },
+  {
+    "name": "Luxemburg"
+  },
+  {
+    "name": "West-vlaanderen"
+  },
+  {
+    "name": "Oost-vlaanderen"
+  }
 ]
